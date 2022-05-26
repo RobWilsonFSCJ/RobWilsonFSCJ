@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Rob Wilson and I am an Information Technology student currently enrolled at FSCJ.
 
 <!--
 **RobWilsonFSCJ/RobWilsonFSCJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
